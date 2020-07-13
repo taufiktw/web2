@@ -1,0 +1,3 @@
+[submodule "themes/mpaluchowski-2019"]
+	path = themes/mpaluchowski-2019
+	url = https://github.com/mpaluchowski/hugo-mpaluchowski-2019
